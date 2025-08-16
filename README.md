@@ -50,7 +50,7 @@ NEXT_PUBLIC_ONBOARD_URL=http://localhost:5000/api/onboard
 ### 4. Start the Backend Server
 ```bash
 cd onboarding-api
-npm start
+node server.js
 ```
 The backend will run on http://localhost:5000
 
